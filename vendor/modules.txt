@@ -1,0 +1,54 @@
+# github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535
+github.com/asaskevich/govalidator
+# github.com/aymerick/douceur v0.2.0
+github.com/aymerick/douceur/css
+# github.com/chris-ramon/douceur v0.2.0
+github.com/chris-ramon/douceur/parser
+# github.com/gorilla/context v1.1.1
+github.com/gorilla/context
+# github.com/gorilla/css v1.0.0
+github.com/gorilla/css/scanner
+# github.com/gorilla/securecookie v1.1.1
+github.com/gorilla/securecookie
+# github.com/gorilla/sessions v1.2.0
+github.com/gorilla/sessions
+# github.com/gosimple/slug v1.9.0
+github.com/gosimple/slug
+# github.com/jinzhu/gorm v1.9.15
+github.com/jinzhu/gorm
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.0.1
+github.com/jinzhu/now
+# github.com/microcosm-cc/bluemonday v1.0.3
+github.com/microcosm-cc/bluemonday
+# github.com/qor/admin v0.0.0-20210421035046-739414767209
+## explicit
+github.com/qor/admin
+# github.com/qor/assetfs v0.0.0-20170713023933-ff57fdc13a14
+github.com/qor/assetfs
+# github.com/qor/middlewares v0.0.0-20170822143614-781378b69454
+github.com/qor/middlewares
+# github.com/qor/qor v0.0.0-20200715033016-13227382be83
+github.com/qor/qor
+github.com/qor/qor/resource
+github.com/qor/qor/utils
+# github.com/qor/responder v0.0.0-20171031032654-b6def473574f
+github.com/qor/responder
+# github.com/qor/roles v0.0.0-20171127035124-d6375609fe3e
+github.com/qor/roles
+# github.com/qor/session v0.0.0-20170907035918-8206b0adab70
+github.com/qor/session
+github.com/qor/session/gorilla
+github.com/qor/session/manager
+# github.com/qor/validations v0.0.0-20171228122639-f364bca61b46
+github.com/qor/validations
+# github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be
+github.com/rainycape/unidecode
+# github.com/theplant/cldr v0.0.0-20190423050709-9f76f7ce4ee8
+github.com/theplant/cldr
+# golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
+golang.org/x/net/html
+golang.org/x/net/html/atom
+# gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
+## explicit
